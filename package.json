@@ -1,12 +1,12 @@
 {
   "name": "can-stream-kefir",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "description": "Stream values into and out of computes",
-  "homepage": "http://canjs.com",
+  "homepage": "https://dspeed.eu/canjs",
   "author": {
-    "name": "Bitovi",
-    "email": "contact@bitovi.com",
-    "url": "http://bitovi.com"
+    "name": "Direktspeed",
+    "email": "frank@dspeed.eu",
+    "url": "https://dspeed.eu"
   },
   "scripts": {
     "preversion": "npm test && npm run build",
@@ -41,7 +41,7 @@
     "can-event": "^3.0.0",
     "can-observation": "^3.0.0",
     "can-util": "^3.0.0",
-    "kefir": "^3.5.1"
+    "rxjs": "^5.0.3"
   },
   "devDependencies": {
     "bit-docs": "0.0.7",
